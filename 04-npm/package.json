@@ -1,0 +1,26 @@
+{
+  "name": "basic-math-npm-package",
+  "version": "1.0.0",
+  "description": "A basic mathematics npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharatastic/basic-math-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "math"
+  ],
+  "author": "Bharat Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharatastic/basic-math-npm-package/issues"
+  },
+  "homepage": "https://github.com/Bharatastic/basic-math-npm-package#readme",
+  "dependencies": {
+    "basic-math-npm-package": "^1.0.0"
+  }
+}
