@@ -1,0 +1,2 @@
+### Exercise: Build a simple blog API.
+ - Develop a RESTful API using Express.js that allows users to perform CRUD operations on blog posts. Implement routes for creating, reading, updating, and deleting posts, and store the data in an in-memory array or a JSON file.

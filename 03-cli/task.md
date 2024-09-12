@@ -1,0 +1,2 @@
+### Exercise: Create a simple command-line tool.
+ - Build a Node.js application that takes user input from the command line to perform a specific task, such as converting text to uppercase, calculating the factorial of a number, or displaying the current date and time.
