@@ -56,3 +56,5 @@ app.delete("/posts/:id", function(req, res){
     res.status(200).send("OK");
   }
 })
+
+app.listen(3000);
