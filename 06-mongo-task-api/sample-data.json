@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "66e97b80cd7ddad103c73bf8"
+  },
+  "title": "Finish Project Report",
+  "description": "Complete the final report for the project and submit it to the manager.",
+  "dueDate": {
+    "$date": "2024-09-25T00:00:00.000Z"
+  },
+  "status": "in progress"
+},
+{
+  "_id": {
+    "$oid": "66e97b80cd7ddad103c73bf9"
+  },
+  "title": "Prepare Presentation",
+  "description": "Create a presentation for the upcoming client meeting.",
+  "dueDate": {
+    "$date": "2024-09-28T00:00:00.000Z"
+  },
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "66e97b80cd7ddad103c73bfb"
+  },
+  "title": "Update Documentation",
+  "description": "Update the project documentation to reflect recent changes.",
+  "dueDate": {
+    "$date": "2024-09-30T00:00:00.000Z"
+  },
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "66e97b80cd7ddad103c73bfc"
+  },
+  "title": "Organize Team Meeting",
+  "description": "Schedule and organize a meeting with the team to discuss project progress.",
+  "dueDate": {
+    "$date": "2024-09-22T00:00:00.000Z"
+  },
+  "status": "in progress"
+},
+{
+  "_id": {
+    "$oid": "66e97d14b38c96b61d5c21df"
+  },
+  "title": "Complete User Feedback Analysis",
+  "description": "Analyze user feedback from the last quarter and summarize key insights.",
+  "dueDate": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "status": "pending"
+}]
