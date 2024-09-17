@@ -1,14 +1,18 @@
-require('dotenv').config();
+// require('dotenv').config();
 const { MongoClient } = require("mongodb");
 
-const uri = process.env.MONGODB_URI;
+// dotenv.config({
+// 	path: '.env',
+// });
+
+const uri = "mongodb://localhost:27017/"
 const client = new MongoClient(uri);
 
 async function run () {
     try {
         await client.connect();
-        const db = client().db("mernAssignments");
-        const collection = db.collection("mongo-api")
+        const db = client().db("assignments");
+        const collection = db.collection("mongo")
 
         const first = await collection.findOne();
         console.log(first);
