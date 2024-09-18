@@ -1,0 +1,2 @@
+###  Exercise: Enhance the task management API with Mongoose.
+ - Integrate Mongoose into your task management API. Define Mongoose schemas and models for tasks, and use them to perform database operations. Add validation and default values to your schemas.

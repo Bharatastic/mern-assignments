@@ -1,0 +1,2 @@
+###  Exercise: Develop a task management API.
+ - Use MongoDB to create a backend for managing tasks. Implement CRUD operations for tasks, including fields such as title, description, due date, and status. Use the MongoDB shell or a GUI tool like MongoDB Compass to interact with the database.
