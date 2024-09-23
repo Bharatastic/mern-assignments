@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "66f1a94270f160014dfd3d00"
+  },
+  "title": "Complete the project",
+  "description": "Finish the MERN stack project by the end of the week.",
+  "dueDate": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  },
+  "status": "in-progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1a96370f160014dfd3d02"
+  },
+  "title": "Buy groceries",
+  "description": "Get vegetables, fruits, and milk from the store.",
+  "dueDate": {
+    "$date": "2024-09-23T17:46:11.397Z"
+  },
+  "status": "pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1a96c70f160014dfd3d04"
+  },
+  "title": "Prepare presentation",
+  "description": "Complete slides for the client meeting.",
+  "dueDate": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "status": "in-progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1a97370f160014dfd3d06"
+  },
+  "title": "Submit tax forms",
+  "description": "File all necessary tax documents for Q3.",
+  "dueDate": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  },
+  "status": "completed",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1a97c70f160014dfd3d08"
+  },
+  "title": "Clean the house",
+  "description": "Vacuum, dust, and mop the entire house.",
+  "dueDate": {
+    "$date": "2023-09-28T00:00:00.000Z"
+  },
+  "status": "pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1a98370f160014dfd3d0a"
+  },
+  "title": "Build personal website",
+  "description": "Develop a personal portfolio website with React and Node.js.",
+  "dueDate": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "status": "in-progress",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1b0a26a3acc5b335ec531"
+  },
+  "title": "Nothing",
+  "description": "Nothing Nothing Nothing.",
+  "dueDate": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "status": "completed",
+  "__v": 0
+}]
